@@ -1,4 +1,4 @@
-# KNN-Basic-Training
+# Training-KNN-Classifier
 
 This project involves training a KNN classifier on an open-source breast cancer dataset to predict breast cancer detection outcomes. 
 
